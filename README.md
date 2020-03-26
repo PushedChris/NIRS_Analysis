@@ -64,4 +64,4 @@
 ```
 
 ### 结果展示
-![image][https://github.com/PushedChris/NIRS_Analysis/blob/master/summary.png]
+![image]:https://github.com/PushedChris/NIRS_Analysis/blob/master/summary.png
