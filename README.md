@@ -1,5 +1,5 @@
 ﻿### 软件结构
-##Summary of NIRS data analysis methods.
+## Summary of NIRS data analysis methods.
 ```c++
 近红外数据分析
 │  DeBaseline_Wavelet.m          //小波去基线程序
@@ -64,4 +64,4 @@
 ```
 
 ### 结果展示
-![image]:https://github.com/PushedChris/NIRS_Analysis/blob/master/summary.png
+![image](https://github.com/PushedChris/NIRS_Analysis/blob/master/summary.png)
