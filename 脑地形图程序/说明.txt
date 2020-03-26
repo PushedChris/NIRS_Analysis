@@ -1,0 +1,1 @@
+topoplotEEG(yy,'bp1.txt','electrodes','labels','maplimits',[0,0.1]);%yy是输入的数据，yy是行向量
